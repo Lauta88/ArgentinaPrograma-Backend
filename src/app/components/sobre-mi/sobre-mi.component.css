@@ -1,0 +1,11 @@
+.sobremi{
+    background-color: rgb(14, 14, 100);
+    border-top: solid black 4px;
+}
+
+.fotoperfil{
+     border: solid 6px rgb(14, 14, 100);
+    border-radius: 50%;
+    position: relative;
+    top: -100px;
+}
