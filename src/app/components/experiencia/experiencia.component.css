@@ -1,0 +1,20 @@
+.container-fluid{
+     background-color:rgb(14, 14, 100);
+     padding-bottom: 20px;
+}
+
+.experiencia{
+    
+    border-top: solid black 4px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.list-group-item{
+    background-color: transparent;
+    color: white;
+}
